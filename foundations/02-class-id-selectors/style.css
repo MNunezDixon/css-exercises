@@ -1,0 +1,19 @@
+.number1, .number3, .number4 {
+    background-color: #ffb6c1;
+    font-display: Verdana, sans-serif;
+}
+
+.number3 {
+    font-size: 24px;
+}
+
+#number2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#number4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}
